@@ -14,6 +14,7 @@
 		4DC3CABB2CAB6152007FC7A5 /* ZambranoColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4DC3CAB92CAB6152007FC7A5 /* ZambranoColeccionDeJuegos.xcdatamodeld */; };
 		4DC3CABD2CAB6153007FC7A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DC3CABC2CAB6153007FC7A5 /* Assets.xcassets */; };
 		4DC3CAC02CAB6153007FC7A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DC3CABE2CAB6153007FC7A5 /* LaunchScreen.storyboard */; };
+		4DC3CAC82CAB6BD5007FC7A5 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DC3CAC72CAB6BD5007FC7A5 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4DC3CABC2CAB6153007FC7A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DC3CABF2CAB6153007FC7A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4DC3CAC12CAB6153007FC7A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DC3CAC72CAB6BD5007FC7A5 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				4DC3CAB22CAB6152007FC7A5 /* SceneDelegate.swift */,
 				4DC3CAB42CAB6152007FC7A5 /* ViewController.swift */,
 				4DC3CAB62CAB6152007FC7A5 /* Main.storyboard */,
+				4DC3CAC72CAB6BD5007FC7A5 /* JuegosViewController.swift */,
 				4DC3CABC2CAB6153007FC7A5 /* Assets.xcassets */,
 				4DC3CABE2CAB6153007FC7A5 /* LaunchScreen.storyboard */,
 				4DC3CAC12CAB6153007FC7A5 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DC3CAC82CAB6BD5007FC7A5 /* JuegosViewController.swift in Sources */,
 				4DC3CAB52CAB6152007FC7A5 /* ViewController.swift in Sources */,
 				4DC3CABB2CAB6152007FC7A5 /* ZambranoColeccionDeJuegos.xcdatamodeld in Sources */,
 				4DC3CAB12CAB6152007FC7A5 /* AppDelegate.swift in Sources */,
